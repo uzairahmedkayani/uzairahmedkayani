@@ -24,3 +24,4 @@ I am Uzair, a Frontend Engineer and designer who is currently applying his skill
 ![](https://github-readme-stats.vercel.app/api?username=uzairahmedkayani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uzairahmedkayani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahmedkayani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uzairahmedkayani&theme=dark&hide_border=true&border_radius=5.5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
