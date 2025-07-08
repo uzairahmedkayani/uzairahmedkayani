@@ -22,4 +22,4 @@ I am Uzair, a Frontend Engineer and designer who is currently applying his skill
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uzairahmedkayani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uzairahmedkayani&theme=dark&hide_border=false)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=uzairahmedkayani&theme=dark&hide_border=false)-->
