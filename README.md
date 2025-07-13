@@ -1,6 +1,6 @@
 ### Hey, there!
 
-I am Uzair, a Frontend Engineer and designer who is currently applying his skills to solve problems and help businesses.
+I am Uzair, a Frontend Engineer and designer who is currently applying his skills to make web apps using MERN Stack
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
