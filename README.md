@@ -1,6 +1,6 @@
 ### Hey, there!
 
-I am Uzair, a frontend focused full stack developer and designer, currently implementing an AI powered recipe maker.
+I am Uzair, a frontend focused full stack developer and designer, currently working as a trainee at Uforia Infotech Solutions, ISB.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
