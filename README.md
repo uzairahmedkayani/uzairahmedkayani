@@ -1,4 +1,4 @@
-### Hey, there!
+### Hey, there! 👋
 
 I am Uzair, a frontend focused full stack developer and designer, currently working as a trainee at Uforia Infotech Solutions, ISB.
 
