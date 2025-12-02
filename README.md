@@ -9,7 +9,3 @@ I am Uzair, a frontend focused full stack developer and designer, currently work
 ### Tools:
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,npm,yarn,redux,mysql,mongodb,visualstudio,vscode,figma,postman,vite,wordpress&perline=15)](https://skillicons.dev)
-
-<!--#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uzairahmedkayani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uzairahmedkayani&theme=dark&hide_border=false)-->
